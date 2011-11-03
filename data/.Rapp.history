@@ -1,0 +1,3 @@
+load("/Users/ddiez/Dropbox/OpenIntro/oidata/OIdata/data/state.rda")
+states <- state
+save(states, file="states.rda")

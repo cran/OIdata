@@ -1,0 +1,2 @@
+load("/Users/ddiez/Dropbox/openintro/oidata/OIdata/state.rda")
+state[1:2,]
